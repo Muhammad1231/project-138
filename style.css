@@ -1,0 +1,8 @@
+.heading_button {
+    float:right;
+    border: 1px solid white
+}
+#start,#status
+{
+    font-size:22px;
+}
